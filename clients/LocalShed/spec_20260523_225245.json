@@ -1,0 +1,474 @@
+{
+  "product_name": "LocalShed",
+  "tagline": "Neighborhood artisans connect directly with local customers. Shop handmade, buy local.",
+  "exec_summary": "LocalShed is a hyper-local mobile marketplace designed to empower micro-entrepreneurs, primarily women, in India to sell their handmade or curated products directly to customers within their immediate neighborhoods. By bypassing traditional intermediaries and high commission platforms, LocalShed solves the problem of limited reach for artisans and the difficulty for customers to discover authentic, local goods. The platform targets urban residential complexes in Delhi NCR (Gurgaon, Noida) initially, with a planned expansion to Bangalore and Mumbai. The Indian market for handmade goods and local commerce is substantial, with a growing segment of consumers seeking unique, ethically sourced products and supporting local creators.\n\nLocalShed's revenue model is based on a 10% transaction commission and a ₹199/month premium seller subscription offering enhanced visibility and analytics. Its competitive advantage lies in its hyper-local focus, fostering direct seller-buyer relationships, reducing overhead, and enabling lower prices for customers and higher margins for sellers. Success within the first 12 months will be defined by achieving 1,000 active sellers and 10,000 monthly transactions in the initial launch cities, demonstrating product-market fit and a scalable operational model.",
+  "persona_1_name": "Pooja Sharma",
+  "persona_1_age": 35,
+  "persona_1_background": "A homemaker in Gurgaon, Pooja designs and embroiders traditional Indian sarees. She sells them through WhatsApp groups and word-of-mouth to friends and family.",
+  "persona_1_tech_comfort": "Comfortable using WhatsApp and basic smartphone features, but finds complex app interfaces overwhelming.",
+  "persona_1_goal": "To earn a supplementary income of ₹15,000-20,000 per month by selling her sarees from home.",
+  "persona_1_frustrations": [
+    "Limited customer reach beyond her immediate social circle.",
+    "High commissions charged by larger online marketplaces.",
+    "Difficulty in managing orders and payments efficiently."
+  ],
+  "persona_1_needs": [
+    "An easy-to-use platform to list and showcase her products.",
+    "Direct communication channel with potential buyers.",
+    "Secure and simple payment processing.",
+    "Visibility to customers within her residential complex or nearby."
+  ],
+  "persona_1_quote": "Kaash log mere ghar ke paas se hi meri banai sarees kharid paate, bina kisi beech wale ko paise diye.",
+  "persona_2_name": "Amit Gupta",
+  "persona_2_age": 30,
+  "persona_2_background": "An IT professional living in a Noida apartment complex, Amit values unique, handmade decor items and supports local artisans.",
+  "persona_2_tech_comfort": "Highly tech-savvy, comfortable with most mobile applications and online shopping.",
+  "persona_2_goal": "To discover and purchase authentic, handmade products from local artisans in his neighborhood, supporting small creators.",
+  "persona_2_frustrations": [
+    "Difficulty finding genuine handmade items amidst mass-produced goods.",
+    "Lack of a convenient way to connect with local craftspeople.",
+    "High prices on curated online stores or galleries."
+  ],
+  "persona_2_needs": [
+    "A platform to easily browse products from sellers nearby.",
+    "Ability to message sellers directly for customization or details.",
+    "Trustworthy product listings with clear images and descriptions.",
+    "Convenient local pickup or delivery options."
+  ],
+  "persona_2_quote": "I love finding unique, handcrafted pieces, but discovering local makers feels like a treasure hunt. I wish there was an easier way.",
+  "persona_3_name": "Rohan Verma",
+  "persona_3_age": 40,
+  "persona_3_background": "Operations Manager for LocalShed, responsible for ensuring smooth platform functioning and user support.",
+  "persona_3_tech_comfort": "Proficient with web dashboards and administrative tools, comfortable managing user accounts and resolving issues.",
+  "persona_3_goal": "To efficiently manage seller onboarding, monitor transactions, and resolve user queries to maintain platform integrity.",
+  "persona_3_frustrations": [
+    "Manual processes for user onboarding and verification.",
+    "Difficulty in tracking and resolving disputes between buyers and sellers.",
+    "Lack of aggregated data for performance analysis."
+  ],
+  "persona_3_needs": [
+    "A centralized dashboard to manage users and listings.",
+    "Tools to monitor transaction activity and commission collection.",
+    "A system for handling customer support and disputes.",
+    "Basic reporting and analytics on platform performance."
+  ],
+  "persona_3_quote": "We need a system that makes managing our growing community of sellers and buyers seamless and efficient.",
+  "user_stories_full": "[MICRO-ENTREPRENEUR STORIES]\n- As a saree seller, I want to easily create a seller profile with my contact information and business description, so that customers know who I am.\n- As an artisan, I want to upload multiple high-quality photos of my pottery products, so that customers can see the details.\n- As a handmade jewelry maker, I want to set my own prices for my products, so that I can control my profit margins.\n- As a micro-entrepreneur, I want to receive direct messages from potential buyers within the app, so that I can answer their questions quickly.\n- As a seller, I want to mark my products as 'available' or 'sold out', so that customers see accurate stock information.\n- As a homemaker selling embroidery, I want to receive payment directly to my bank account after a successful transaction, so that I have clear financial records.\n- As a small business owner, I want to be able to manage my product listings (add, edit, delete), so that my catalog is always up-to-date.\n- As a seller, I want to see how many people have viewed my products, so that I can understand my product's appeal.\n- As a woman entrepreneur, I want a simple, intuitive interface that doesn't require technical expertise, so that I can use the app easily.\n- As a seller, I want to be able to set my delivery radius or offer local pickup, so that I can manage logistics effectively.\n\n[CUSTOMER STORIES]\n- As a customer, I want to browse products based on my current location or a specific neighborhood, so that I can find sellers nearby.\n- As a customer, I want to view seller profiles to understand their background and craftsmanship, so that I can make an informed purchase.\n- As a customer, I want to filter products by category (e.g., sarees, jewelry, home decor), so that I can find what I'm looking for faster.\n- As a customer, I want to send direct messages to sellers to inquire about product details or customization, so that I can get personalized information.\n- As a customer, I want to see product reviews and ratings from other buyers, so that I can trust the quality of the items.\n- As a customer, I want to save products or sellers to my favorites, so that I can easily revisit them later.\n- As a customer, I want to make secure in-app payments for my purchases, so that I don't have to deal with cash or external payment links.\n- As a customer, I want to receive push notifications for new products from my favorite sellers or order updates, so that I stay informed.\n- As a customer, I want to be able to report a seller or product if I encounter any issues, so that the platform remains safe and trustworthy.\n- As a customer, I want to be able to arrange for local pickup or local delivery with the seller, so that I have convenient fulfillment options.\n\n[ADMIN STORIES]\n- As an admin, I want to onboard new sellers by verifying their profiles, so that only genuine entrepreneurs join the platform.\n- As an admin, I want to monitor all transactions and commissions collected, so that financial reporting is accurate.\n- As an admin, I want to view and manage reported issues or disputes between buyers and sellers, so that I can resolve them efficiently.\n- As an admin, I want to be able to send targeted push notifications to users (e.g., new seller alerts in an area), so that I can drive engagement.\n- As an admin, I want to access basic analytics on user activity, product popularity, and revenue, so that I can make informed business decisions.\n- As an admin, I want to be able to suspend or ban users who violate platform policies, so that the community remains safe.",
+  "mvp_features": [
+    "User Authentication: Secure registration and login for both sellers and buyers using OTP and email/password.",
+    "Seller Profile Creation: Ability for micro-entrepreneurs to create a profile with name, location, description, and profile picture.",
+    "Product Listing Management: Sellers can add, edit, and delete product listings with images, descriptions, and prices.",
+    "Hyper-Local Product Discovery: Customers can browse products based on their current location or a specified radius (e.g., 2km).",
+    "In-App Messaging: Real-time chat functionality for buyers to communicate directly with sellers.",
+    "Basic Transaction Processing: Secure payment gateway integration (Razorpay) for processing transactions and calculating commission.",
+    "Order Management (Seller View): Sellers can view incoming orders and mark them as 'completed' or 'shipped'.",
+    "Order Tracking (Buyer View): Buyers can view the status of their orders.",
+    "Push Notifications: Basic notifications for new messages and order status updates."
+  ],
+  "phase_2_features": [
+    "Seller Subscription Management: Implementation of the ₹199/month premium seller subscription with feature toggles.",
+    "Featured Listings: Ability for premium sellers to have their products highlighted in search results or on the homepage.",
+    "Advanced Search & Filters: More granular filtering options for customers (e.g., by price range, materials, seller rating).",
+    "Product Reviews & Ratings: Customers can leave reviews and ratings for purchased products.",
+    "Wishlist/Favorites: Customers can save products or sellers they are interested in.",
+    "Admin Dashboard Enhancements: Basic analytics and reporting tools for administrators."
+  ],
+  "future_features": [
+    "Integrated Local Delivery Logistics: Partnering with local delivery services for sellers who opt-in.",
+    "Multi-language Support: Expanding to Hindi, Hinglish, and other regional languages for broader accessibility.",
+    "Seller Analytics Dashboard: Detailed insights for premium sellers on product performance, customer demographics, and sales trends.",
+    "Community Forums/Groups: A space for sellers to share tips and buyers to discuss local finds.",
+    "AI-Powered Recommendations: Personalized product recommendations for customers based on their browsing and purchase history."
+  ],
+  "wireframe_descriptions": [
+    {
+      "Screen N": 1,
+      "Screen Name": "Welcome & Onboarding",
+      "Purpose": "To introduce the app and guide new users through initial setup (login/signup).",
+      "Key Elements": [
+        "App Logo and Tagline",
+        "Splash Screen with attractive visuals",
+        "Login Button",
+        "Signup Button",
+        "Option to continue as Guest (limited functionality)"
+      ],
+      "User Action": "Tap Login/Signup, or explore as Guest."
+    },
+    {
+      "Screen N": 2,
+      "Screen Name": "Sign Up / Login",
+      "Purpose": "To allow users to create an account or log in to an existing one.",
+      "Key Elements": [
+        "Email/Phone Number Input Field",
+        "Password Input Field",
+        "OTP Input Field (for phone login)",
+        "Login Button",
+        "Forgot Password Link",
+        "Link to Terms & Conditions and Privacy Policy"
+      ],
+      "User Action": "Enter credentials, receive OTP, and verify."
+    },
+    {
+      "Screen N": 3,
+      "Screen Name": "Seller Dashboard (Home)",
+      "Purpose": "To provide sellers with an overview of their listings, orders, and profile status.",
+      "Key Elements": [
+        "Seller Profile Summary (Name, Rating)",
+        "Number of Active Listings",
+        "Number of Pending Orders",
+        "Total Earnings (current month)",
+        "Quick Action Buttons (Add Product, View Orders)",
+        "Navigation Bar (Profile, Products, Orders, Settings)"
+      ],
+      "User Action": "Navigate to different sections or view key metrics."
+    },
+    {
+      "Screen N": 4,
+      "Screen Name": "Add New Product",
+      "Purpose": "To enable sellers to list new items for sale.",
+      "Key Elements": [
+        "Product Name Input",
+        "Product Description Input (rich text editor)",
+        "Price Input",
+        "Category Selection (Dropdown)",
+        "Image Upload (multiple images)",
+        "Stock Quantity Input",
+        "Location/Pickup Options (Radio buttons)",
+        "Save Product Button"
+      ],
+      "User Action": "Fill in product details and upload images."
+    },
+    {
+      "Screen N": 5,
+      "Screen Name": "Customer Home Feed",
+      "Purpose": "To display nearby products and sellers to the customer.",
+      "Key Elements": [
+        "Location Indicator (e.g., 'Products near you in Sector 15, Gurgaon')",
+        "Search Bar",
+        "Category Filters (Icons/Chips)",
+        "Product Cards (Image, Name, Price, Seller Name, Distance)",
+        "Sort Options (Distance, Price, Newest)",
+        "Bottom Navigation Bar (Home, Search, Messages, Profile)"
+      ],
+      "User Action": "Scroll through products, tap on a product card, or use search/filters."
+    },
+    {
+      "Screen N": 6,
+      "Screen Name": "Product Details",
+      "Purpose": "To show comprehensive information about a specific product.",
+      "Key Elements": [
+        "Product Image Gallery (swipeable)",
+        "Product Name",
+        "Price",
+        "Seller Name (tappable to view profile)",
+        "Product Description",
+        "Stock Availability",
+        "Location/Pickup Details",
+        "Add to Cart / Buy Now Button",
+        "Message Seller Button"
+      ],
+      "User Action": "View details, add to cart, or message the seller."
+    },
+    {
+      "Screen N": 7,
+      "Screen Name": "Seller Profile",
+      "Purpose": "To display detailed information about a specific seller.",
+      "Key Elements": [
+        "Seller Profile Picture",
+        "Seller Name",
+        "Seller Description/Bio",
+        "Location (general area)",
+        "Rating and Number of Reviews",
+        "List of Seller's Products",
+        "Message Seller Button"
+      ],
+      "User Action": "View seller's information and their other products."
+    },
+    {
+      "Screen N": 8,
+      "Screen Name": "Chat / Messaging",
+      "Purpose": "To facilitate direct communication between buyers and sellers.",
+      "Key Elements": [
+        "Conversation Header (Seller/Buyer Name)",
+        "Message Input Field",
+        "Send Button",
+        "Message History (timestamps)",
+        "Option to attach images (future feature)"
+      ],
+      "User Action": "Type and send messages."
+    },
+    {
+      "Screen N": 9,
+      "Screen Name": "Checkout / Payment",
+      "Purpose": "To finalize the purchase and process payment.",
+      "Key Elements": [
+        "Order Summary (Product, Quantity, Price)",
+        "Total Amount",
+        "Payment Method Selection (UPI, Card - via Razorpay)",
+        "Payment Confirmation Button",
+        "Delivery/Pickup Option Confirmation"
+      ],
+      "User Action": "Select payment method and confirm payment."
+    },
+    {
+      "Screen N": 10,
+      "Screen Name": "My Orders",
+      "Purpose": "To allow users (both buyers and sellers) to view their order history.",
+      "Key Elements": [
+        "List of Orders (Order ID, Date, Status, Amount)",
+        "Filter by Status (Pending, Completed, Cancelled)",
+        "Tappable orders to view details"
+      ],
+      "User Action": "View past and current orders."
+    }
+  ],
+  "data_models": [
+    {
+      "Table": "users",
+      "Fields": "user_id (UUID) | email (String) | phone_number (String) | password_hash (String) | role (Enum: SELLER, BUYER, ADMIN) | created_at (Timestamp) | updated_at (Timestamp) | is_active (Boolean)",
+      "Relationships": "One-to-one with seller_profiles and buyer_profiles."
+    },
+    {
+      "Table": "seller_profiles",
+      "Fields": "seller_profile_id (UUID) | user_id (UUID) | business_name (String) | description (Text) | profile_picture_url (String) | address (String) | city (String) | pincode (String) | latitude (Float) | longitude (Float) | is_premium (Boolean) | subscription_expiry (Timestamp) | created_at (Timestamp) | updated_at (Timestamp)",
+      "Relationships": "Belongs to a user (SELLER role)."
+    },
+    {
+      "Table": "products",
+      "Fields": "product_id (UUID) | seller_profile_id (UUID) | name (String) | description (Text) | price (Decimal) | category (String) | stock_quantity (Integer) | images (Array of Strings) | status (Enum: ACTIVE, SOLD_OUT, DRAFT) | created_at (Timestamp) | updated_at (Timestamp)",
+      "Relationships": "Belongs to a seller_profile. Can have multiple product_images (if stored separately)."
+    },
+    {
+      "Table": "orders",
+      "Fields": "order_id (UUID) | buyer_user_id (UUID) | seller_profile_id (UUID) | product_id (UUID) | quantity (Integer) | total_amount (Decimal) | order_status (Enum: PENDING, PAID, COMPLETED, CANCELLED) | payment_status (Enum: PENDING, SUCCESS, FAILED) | transaction_id (String) | commission_amount (Decimal) | created_at (Timestamp) | updated_at (Timestamp)",
+      "Relationships": "Belongs to a buyer and a seller. Can have multiple order_items if a single order contains multiple products."
+    },
+    {
+      "Table": "messages",
+      "Fields": "message_id (UUID) | chat_id (UUID) | sender_user_id (UUID) | receiver_user_id (UUID) | content (Text) | timestamp (Timestamp) | read_at (Timestamp)",
+      "Relationships": "Belongs to a chat. A chat can involve two users (buyer and seller)."
+    },
+    {
+      "Table": "chats",
+      "Fields": "chat_id (UUID) | buyer_user_id (UUID) | seller_user_id (UUID) | created_at (Timestamp) | last_message_at (Timestamp)",
+      "Relationships": "Connects a buyer and a seller for messaging. Has multiple messages."
+    },
+    {
+      "Table": "seller_subscriptions",
+      "Fields": "subscription_id (UUID) | seller_profile_id (UUID) | plan_name (String) | start_date (Timestamp) | end_date (Timestamp) | status (Enum: ACTIVE, EXPIRED, CANCELLED) | created_at (Timestamp)",
+      "Relationships": "Belongs to a seller_profile."
+    }
+  ],
+  "api_endpoints": [
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/auth/register",
+      "Description": "Register a new user (buyer or seller). Returns user details and JWT."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/auth/login",
+      "Description": "Login an existing user. Returns user details and JWT."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/auth/request-otp",
+      "Description": "Request OTP for phone number verification."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/auth/verify-otp",
+      "Description": "Verify OTP for login or registration."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/sellers/:sellerId",
+      "Description": "Get details of a specific seller profile."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/sellers/:sellerId/products",
+      "Description": "Get all products listed by a specific seller."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/products",
+      "Description": "Create a new product listing (Seller only). Requires authentication."
+    },
+    {
+      "METHOD": "PUT",
+      "PATH": "/api/v1/products/:productId",
+      "Description": "Update an existing product listing (Seller only). Requires authentication."
+    },
+    {
+      "METHOD": "DELETE",
+      "PATH": "/api/v1/products/:productId",
+      "Description": "Delete a product listing (Seller only). Requires authentication."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/products",
+      "Description": "Get a list of products (filtered by location, category, etc.). Supports pagination."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/products/:productId",
+      "Description": "Get details of a specific product."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/orders",
+      "Description": "Create a new order (Buyer only). Requires authentication."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/orders/my",
+      "Description": "Get orders for the logged-in user (Buyer or Seller). Requires authentication."
+    },
+    {
+      "METHOD": "PUT",
+      "PATH": "/api/v1/orders/:orderId/status",
+      "Description": "Update order status (Seller only). Requires authentication."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/chats",
+      "Description": "Get list of chats for the logged-in user. Requires authentication."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/chats/:chatId/messages",
+      "Description": "Get messages for a specific chat. Requires authentication."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/chats/:chatId/messages",
+      "Description": "Send a message in a chat. Requires authentication."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/payments/initiate",
+      "Description": "Initiate a payment transaction (e.g., for an order). Returns payment gateway details."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/payments/webhook",
+      "Description": "Webhook endpoint for payment gateway to confirm transaction status."
+    },
+    {
+      "METHOD": "POST",
+      "PATH": "/api/v1/admin/sellers/onboard",
+      "Description": "Admin endpoint to approve/reject seller applications."
+    },
+    {
+      "METHOD": "GET",
+      "PATH": "/api/v1/admin/analytics/overview",
+      "Description": "Admin endpoint for basic platform analytics."
+    }
+  ],
+  "stack_mobile": "React Native",
+  "stack_mobile_reasoning": "Enables cross-platform development for both iOS and Android from a single codebase, significantly reducing development time and cost for an MVP, which is crucial given the budget and timeline.",
+  "stack_web_frontend": "React",
+  "stack_web_frontend_reasoning": "For the admin dashboard, React offers a component-based architecture and a rich ecosystem, allowing for rapid development of an interactive and user-friendly interface.",
+  "stack_state_mgmt": "Redux Toolkit (for React Native) and Redux (for React web)",
+  "stack_state_mgmt_reasoning": "Provides a predictable state container, essential for managing complex application states in both mobile and web applications, ensuring data consistency.",
+  "stack_styling": "NativeBase (for React Native) and Material-UI (for React web)",
+  "stack_styling_reasoning": "These libraries offer pre-built, customizable UI components that accelerate development and ensure a consistent, modern look and feel across platforms, tailored for Indian users' design preferences.",
+  "stack_backend": "Node.js with Express.js",
+  "stack_backend_reasoning": "JavaScript on the backend allows for code sharing between frontend and backend, faster development cycles, and excellent performance for real-time features like chat, suitable for a startup environment.",
+  "stack_database": "MongoDB (NoSQL)",
+  "stack_database_reasoning": "Its flexible schema is ideal for evolving product requirements and handling unstructured data like product descriptions and images. It scales well and is cost-effective for startups.",
+  "stack_caching": "Redis",
+  "stack_caching_reasoning": "Can be used to cache frequently accessed data like product listings and user profiles, improving response times and reducing database load.",
+  "stack_hosting": "AWS (Amazon Web Services) or Google Cloud Platform (GCP) with India-specific regions",
+  "stack_hosting_reasoning": "Offers scalable, reliable infrastructure and provides regions within India, crucial for data residency requirements under DPDP Act 2023 and lower latency for Indian users.",
+  "stack_payments": "Razorpay",
+  "stack_payments_reasoning": "Razorpay is the de facto standard for Indian startups, offering seamless UPI integration, robust security, and competitive pricing, simplifying payment gateway integration.",
+  "stack_sms": "Twilio or MSG91",
+  "stack_sms_reasoning": "Reliable providers for OTP verification and SMS notifications in India, offering competitive pricing per SMS (typically ₹0.10 - ₹0.30 per SMS).",
+  "stack_maps": "Google Maps Platform APIs",
+  "stack_maps_reasoning": "Essential for location-based search, distance calculation, and displaying seller locations, offering comprehensive mapping services for India.",
+  "stack_storage": "AWS S3 or Google Cloud Storage",
+  "stack_storage_reasoning": "Scalable, durable, and cost-effective cloud storage solutions for product images and other user-generated content, with India region support.",
+  "cost_role_1_name": "Backend Developer (Node.js)",
+  "cost_role_1_hours": 720,
+  "cost_role_1_rate": 1500,
+  "cost_role_1_total": 1080000,
+  "cost_role_2_name": "Mobile Developer (React Native)",
+  "cost_role_2_hours": 720,
+  "cost_role_2_rate": 1400,
+  "cost_role_2_total": 1008000,
+  "cost_role_3_name": "Frontend Developer (React for Admin)",
+  "cost_role_3_hours": 480,
+  "cost_role_3_rate": 1300,
+  "cost_role_3_total": 624000,
+  "cost_role_4_name": "UI/UX Designer",
+  "cost_role_4_hours": 240,
+  "cost_role_4_rate": 1200,
+  "cost_role_4_total": 288000,
+  "total_dev_cost": 2990000,
+  "cost_hosting": 60000,
+  "cost_apis": 40000,
+  "cost_compliance": 50000,
+  "cost_qa": 30000,
+  "total_first_year_cost": 3170000,
+  "timeline_months": 6,
+  "timeline_team": "A lean team of 4-5: 1 Backend Developer, 1-2 Mobile Developers (React Native), 1 Frontend Developer (for Admin Dashboard), 1 UI/UX Designer, and a part-time Product Manager/Founder overseeing.",
+  "phase_1_duration": "4 weeks",
+  "phase_2_duration": "8 weeks",
+  "phase_3_duration": "6 weeks",
+  "phase_4_duration": "6 weeks",
+  "hiring_recommendation": "Given the budget range of ₹2-5 lakh for MVP development and a 3-6 month timeline, a full-time in-house team might be challenging. The most viable approach is to leverage a mix of experienced freelance developers and potentially a small, specialized agency for specific components. Focus on hiring developers with proven experience in React Native, Node.js, and MongoDB. Consider hiring from Tier 2/Tier 3 cities in India where development costs are typically lower, or from remote talent pools. Prioritize individuals who have worked on similar marketplace or e-commerce platforms. For UI/UX, a freelance designer can be cost-effective. The founder will need to play a crucial role in product management and coordination.",
+  "hiring_sources": [
+    "Upwork/Fiverr: For freelance developers (Backend, Frontend, Mobile). Look for profiles with high ratings, relevant project experience, and good communication. Expect rates from ₹1000-₹2000/hr.",
+    "LinkedIn: For experienced developers and potential agency partners. Search for specific skills and experience. Cost expectations vary widely but can be higher for senior roles.",
+    "AngelList/Wellfound: For startup-savvy developers and product managers. Good for finding passionate individuals. Rates can be competitive.",
+    "Local Developer Communities/Meetups (Online/Offline): For finding niche talent or those open to startup roles. Often more cost-effective.",
+    "Referral Networks: Leverage personal and professional connections for trusted recommendations. Cost is often negotiated directly."
+  ],
+  "red_flags": [
+    "Lack of specific examples of similar projects in their portfolio: Vague experience is a risk for a niche product like this.",
+    "Unwillingness to discuss technical challenges or trade-offs: A good developer will be transparent about potential issues.",
+    "Over-reliance on boilerplate code without understanding: Suggests a lack of deep problem-solving skills.",
+    "Poor communication about progress or blockers: Indicates potential delays and lack of accountability.",
+    "Unrealistic estimates or a 'rush' attitude: Suggests they might cut corners on quality for speed.",
+    "Not asking clarifying questions about the product or user personas: Shows a lack of engagement and understanding of the 'why'."
+  ],
+  "risk_1_id": "R-01",
+  "risk_1_desc": "Low adoption rate from micro-entrepreneurs due to perceived complexity of the app.",
+  "risk_1_mitigation": "Design an extremely intuitive and simple UI/UX with clear onboarding tutorials. Provide Hindi/regional language support for all app elements and offer a dedicated support channel for sellers.",
+  "risk_2_id": "R-02",
+  "risk_2_desc": "Difficulty in achieving critical mass of both buyers and sellers in hyper-local areas.",
+  "risk_2_mitigation": "Implement a targeted local marketing strategy in initial launch cities (e.g., partnerships with resident welfare associations, local community events, social media campaigns focused on specific neighborhoods). Offer initial incentives for early sellers and buyers.",
+  "risk_3_id": "R-03",
+  "risk_3_desc": "Payment gateway integration issues or transaction failures impacting user trust.",
+  "risk_3_mitigation": "Thoroughly test Razorpay integration across various payment methods (UPI, cards). Implement robust error handling and user feedback mechanisms for payment issues. Ensure clear communication with users during payment processes.",
+  "risk_4_id": "R-04",
+  "risk_4_desc": "Scalability issues with real-time messaging and location-based search as user base grows.",
+  "risk_4_mitigation": "Choose a scalable backend architecture (Node.js, MongoDB) and hosting (AWS/GCP with India regions). Optimize database queries for location-based services and implement caching mechanisms.",
+  "risk_5_id": "R-05",
+  "risk_5_desc": "Competition from informal channels (WhatsApp groups) and larger platforms if commission structure is perceived as high.",
+  "risk_5_mitigation": "Continuously emphasize the value proposition of direct connection, no middlemen, and higher seller margins. Monitor competitor pricing and user feedback to adjust commission or subscription models if necessary. Focus on unique features like hyper-local discovery.",
+  "compliance_requirements": [
+    {
+      "Requirement Name": "Digital Personal Data Protection Act, 2023 (DPDP Act)",
+      "Meaning": "Governs the processing of digital personal data in India. Requires explicit consent, data minimization, purpose limitation, and security safeguards.",
+      "Developer Action": "Implement clear consent mechanisms for data collection. Store user data (especially personal identifiable information - PII) securely. Provide users with options to access, correct, and delete their data. Ensure data is processed only for stated purposes. Use data encryption. Clearly define data retention policies."
+    },
+    {
+      "Requirement Name": "Goods and Services Tax (GST)",
+      "Meaning": "If the startup's annual turnover exceeds the threshold (currently ₹40 lakh for goods, ₹20 lakh for services in most states), it must register for GST and collect/remit GST on its income (commission and subscription fees).",
+      "Developer Action": "Implement GST calculation and invoicing for commission and subscription fees. Ensure the platform can record and report GST-collected amounts. The platform needs to facilitate sellers in understanding their GST obligations, though direct seller GST registration is their responsibility."
+    },
+    {
+      "Requirement Name": "Payment and Settlement Systems Act, 2007 (and RBI Guidelines)",
+      "Meaning": "Governs payment systems in India. Since LocalShed uses a payment gateway (Razorpay) for transactions, compliance is largely handled by Razorpay, but the platform must ensure secure handling of transaction data and avoid acting as an intermediary in a way that requires a specific license.",
+      "Developer Action": "Ensure all payment processing is done through a licensed Payment Service Provider (PSP) like Razorpay. Do not store sensitive payment card details on LocalShed's servers. Securely handle transaction IDs and payment confirmations."
+    },
+    {
+      "Requirement Name": "Consumer Protection Act, 2019",
+      "Meaning": "Protects consumer rights. The platform must ensure fair trade practices, accurate product descriptions, and mechanisms for dispute resolution.",
+      "Developer Action": "Implement clear terms of service and a dispute resolution process. Provide mechanisms for users to report unfair practices or misleading information. Display seller ratings and reviews to promote transparency."
+    }
+  ]
+}
